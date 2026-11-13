@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+i like 
+- ☕Java
+- 🍃Spring Boot
+- 🎨 ComfyUI
+
+
 <!--
 **NJ509/NJ509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
